@@ -1,0 +1,11 @@
+{
+    "hassabLabs":"Hassab Labs",
+    "login":"Login",
+    "change_lang" : "Change",
+    "welcome_hassab" : "Welcome in Hassab Labs",
+    "mail_hint" : "Email",
+    "pass_hint" : "Password",
+    "mail_error" : "Please enter a valid email",
+    "pass_error": "Password must be more than 6 charchters"
+
+}
